@@ -1,0 +1,28 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    margin: auto;
+    padding: 20px;
+    background-color:rgb(255, 255, 255);
+}
+    header{
+        background-color: rgb(160, 219, 243);
+        color: black;
+        padding: 20px;
+        text-align: left;
+    }
+    li{font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: medium;
+    }
+    h2{font-family: cVerdana, Geneva, Tahoma, sans-serif; 
+        font-size: large;
+        text-overflow: ellipsis;
+     }
+     p{text-align:left;
+       color: black;
+       text-size-adjust: 15px;
+    }
+    main{
+        text-size-adjust: auto;
+        padding: 20px;
+    }
